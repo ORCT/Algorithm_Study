@@ -1,0 +1,1 @@
+#queen_position = [i][j]
